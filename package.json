@@ -1,0 +1,21 @@
+{
+  "name": "stackgl-browser",
+  "version": "1.0.0",
+  "description": "Many popular stack.gl libs all pre-bundled for the browser. No NPM here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Lundin",
+  "license": "MIT",
+  "dependencies": {
+    "a-big-triangle": "^1.0.2",
+    "gl-buffer": "^2.1.2",
+    "gl-context": "^0.1.1",
+    "gl-fbo": "^2.0.5",
+    "gl-geometry": "^1.1.1",
+    "gl-shader": "^4.0.5",
+    "gl-texture2d": "^2.0.9",
+    "gl-vao": "^1.2.1"
+  }
+}
